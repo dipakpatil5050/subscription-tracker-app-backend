@@ -31,4 +31,4 @@ app.listen(PORT, async () => {
 
 export default app;
 
-// Tutorial watch till 1 hour and 46 Minute till auth controller
+// Tutorial watch till 2 hour and 03 Minute till Arcjet implementation
