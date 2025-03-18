@@ -4,7 +4,6 @@ import { successResponse } from "../utils/responseHelper.js";
 export const getUsers = async (req, res, next) => {
   try {
     const users = await User.find();
-
     return successResponse(res, users);
   } catch (error) {
     next(error);
