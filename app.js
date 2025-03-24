@@ -34,5 +34,3 @@ app.listen(PORT, async () => {
 });
 
 export default app;
-
-// Tutorial watch till 2 hour and 42 Minute till Arcjet implementation
